@@ -1,0 +1,35 @@
+<view class="title1">
+<image src="../../image/1.jpg" mode="widthFix"></image>
+</view>
+<view class="input1">
+  <view class="card">
+    <view class="top1">
+      <view class="color2"></view>
+      <view class="color1"></view>
+      <view class="letter1">请收下绿色行程卡</view>
+    </view>
+    <view class="doc1">
+      <view class="doc11">{{tel}}的动态行程卡</view>
+      <view class="doc12">更新于：{{timedata}}</view>
+    </view>
+    <view class="img1">
+      <image src="../../image/8.png" mode="widthFix" ></image>
+    </view>
+  <view class="distance">您与前14天内到达或途经：<text class="distance1">{{distance1}}-{{distance2}}</text></view>
+  </view>
+</view>
+ <view class="bottom">本行程卡包含了您在前14天内到访且停留超过4小时的地区</view>
+<view>
+<i-load-more tip="本服务联合提供" loading="{{ false }}" />
+</view>
+<view class="imagesize">
+<image src="../../image/3.png" mode="widthFix" style="width:50%"></image>
+</view>
+<view class="imagesize2">
+<i-row >
+   
+    <i-col span="8" i-class="col-class"><image src="../../image/4.png" mode="widthFix" style="width:50%"></image></i-col>
+    <i-col span="8" i-class="col-class"><image src="../../image/5.png" mode="widthFix" style="width:50%"></image></i-col>
+    <i-col span="8" i-class="col-class"><image src="../../image/6.png" mode="widthFix" style="width:50%"></image></i-col>
+</i-row>
+</view>

@@ -1,0 +1,71 @@
+.title1{
+  height:330rpx;
+}
+.title1 image{
+ position: relative;
+  top:100rpx;
+  left: 50rpx
+}
+.input1{
+  height:500rpx;
+  width: 100%;
+ 
+}
+.input1 .card{
+ position: relative;
+ top: 30rpx;
+ left: 30rpx;
+ height: 90%;
+ width: 90%;
+  border: 1px rgba(172, 173, 173, 0.233) solid;
+border-radius:  5%;
+box-shadow:0px 2px 5px 5px rgba(172, 172, 173, 0.685);
+}
+.telin{
+   border-bottom:1px rgba(172, 172, 173, 0.685) solid;
+}
+.telin i-icon{
+   position: relative;
+   top: 15rpx;
+}
+.telin image{
+  position: relative;
+  top: 25rpx;
+  left: 25rpx;
+   border-left: 1px rgba(114, 114, 116, 0.685) solid;
+ 
+}
+.font1{
+  font-size: 23rpx;
+  color: rgba(114, 114, 116, 0.685);
+  position: relative;
+   top: 20rpx;
+}
+checkbox{
+  position: relative;
+   top: 10rpx;
+   left: 10rpx
+}
+.protocol{
+  height: 80rpx
+}
+button{
+  display:flex; 
+  justify-content:center; 
+  align-items:center;
+}
+.find{
+  font:30rpx
+}
+.imagesize{
+ display:flex;                   
+ justify-content: center;        
+}
+.imagesize image { 
+  width:400rpx;
+  height:400rpx;
+  }
+.imagesize2  image{
+position: relative;
+left: 50rpx
+  }

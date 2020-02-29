@@ -1,0 +1,14 @@
+{
+  "pages": [
+      "pages/index/index",
+    "pages/index1/index1"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "通讯大数据行程卡",
+    "navigationBarTextStyle": "black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
